@@ -3,3 +3,5 @@
 
 Nguyễn Như Duy Phương
 MSSV 16020267
+
+Thưa thầy, em mới chỉ có code, còn demo Youtube thì em đang tìm cách ạ. Tại vì em dùng fmedia để play các file âm thanh, mà module này lại ngắt phần mềm quay màn hình. Nên là em vẫn chưa có video demo được ạ.
