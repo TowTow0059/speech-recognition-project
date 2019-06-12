@@ -1,2 +1,5 @@
 # speech-recognition-project
-User support application
+Ứng dụng hỗ trợ người dùng
+
+Nguyễn Như Duy Phương
+MSSV 16020267
